@@ -1,4 +1,4 @@
-Hello my
+Hello my friend
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
